@@ -46,6 +46,3 @@ If you do **nothing else**, make sure you do these things **right now**:
 This is an **open-source project**, and we welcome contributions! Feel free to submit pull requests, suggest improvements, or report security tips.
 
 **License:** MIT License
-
-**Maintainer:** _Your Name / GitHub Handle_
-
